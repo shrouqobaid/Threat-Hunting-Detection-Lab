@@ -111,15 +111,13 @@ index=network sourcetype=zeek_conn
 
 ### 🔗 تقرير الربط النهائي (Case 5: Correlation & Incident Report)
 هذا التقرير يمثل المرحلة النهائية لعملية ربط كافة الأدلة والمؤشرات الأمنية (IOCs) المستخرجة من الحالات السابقة: 
-- https://github.com/shrouqobaid/Threat-Hunting-Detection-Lab/issues/6
-
+* **Case 5:** [عرض تقرير الربط](https://github.com/shrouqobaid/Threat-Hunting-Detection-Lab/issues/6)
 ---
 
 ### هيكلة المستودع (Repository Structure)
 
-* **[/data](data/):** يحتوي على ملفات السكريبتات (مثل `beacon.py`) وبيانات محاكاة التهديدات الخام.
-* **[/docs](docs/):** توثيق تفصيلي إضافي لعملية البحث عن التهديدات (Threat Hunting).
-* **[/screenshots](screenshots/):** يحتوي على الأدلة البصرية لنتائج التحقيق والتقارير الجنائية.
-
+* **data/** : يحتوي على بيانات محاكاة التهديدات وملفات السكريبتات (مثل `beacon.py`).
+* **docs/** : توثيق تفصيلي إضافي لعملية البحث عن التهديدات (Threat Hunting).
+* **screenshots/** : يحتوي على الأدلة البصرية لنتائج التحقيق والتقارير الجنائية.
 ---
 **تم إعداد هذا المختبر لتعزيز مهارات الدفاع الاستباقي عن الشبكات.**
