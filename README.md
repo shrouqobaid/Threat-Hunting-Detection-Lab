@@ -118,10 +118,13 @@ index=network sourcetype=zeek_conn
 
 <div dir="ltr" align="left">
   <ul>
-    <li><a href="data/">data/</a> : يحتوي على بيانات محاكاة التهديدات وملفات السكريبتات.</li>
-    <li><a href="docs/">docs/</a> : توثيق تفصيلي إضافي لعملية البحث عن التهديدات.</li>
-    <li><a href="screenshots/">screenshots/</a> : يحتوي على الأدلة البصرية لنتائج التحقيق.</li>
+    <li><a href="data/">data/</a> : يحتوي على بيانات محاكاة التهديدات وملفات السكريبتات </li>
+    <li><a href="docs/">docs/</a> : توثيق تفصيلي إضافي لعملية البحث عن التهديدات </li>
+    <li><a href="screenshots/">screenshots/</a> : يحتوي على الأدلة البصرية لنتائج التحقيق </li>
   </ul>
 </div>
+
+
+
 ---
 **تم إعداد هذا المختبر لتعزيز مهارات الدفاع الاستباقي عن الشبكات.**
