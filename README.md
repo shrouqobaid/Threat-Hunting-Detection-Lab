@@ -115,4 +115,10 @@ Case 4: https://github.com/shrouqobaid/Threat-Hunting-Detection-Lab/issues/4
 هذا التقرير يمثل المرحلة النهائية لعملية ربط كافة الأدلة والمؤشرات الأمنية (IOCs) المستخرجة من الحالات السابقة: https://github.com/shrouqobaid/Threat-Hunting-Detection-Lab/issues/6
 
 
+### 📂 هيكلة المستودع (Repository Structure)
+*   **/data:** يحتوي على ملفات السكريبتات المستخدمة في محاكاة التهديدات (مثل `beacon.py`) والبيانات الخام.
+*   **/docs:** توثيق إضافي لعملية البحث عن التهديدات.
+*   **/screenshots:** يحتوي على الأدلة البصرية لنتائج التحقيق.
+
+
 **تم إعداد هذا المختبر لتعزيز مهارات الدفاع الاستباقي عن الشبكات.**
