@@ -99,21 +99,21 @@ index=network sourcetype=zeek_conn
 
 ---
 
-
-
 ### توثيق الأدلة (Evidence)
-يمكنكم الاطلاع على الصور والنتائج التفصيلية لكل حالة عبر الروابط التالية:
+يمكنكم الاطلاع على النتائج التفصيلية لكل حالة عبر الروابط التالية:
 
-Case 1: https://github.com/shrouqobaid/Threat-Hunting-Detection-Lab/issues/2
+* **Case 1:** [عرض التقرير](https://github.com/shrouqobaid/Threat-Hunting-Detection-Lab/issues/2)
+* **Case 2:** [عرض التقرير](https://github.com/shrouqobaid/Threat-Hunting-Detection-Lab/issues/3)
+* **Case 3:** [عرض التقرير](https://github.com/shrouqobaid/Threat-Hunting-Detection-Lab/issues/5)
+* **Case 4:** [عرض التقرير](https://github.com/shrouqobaid/Threat-Hunting-Detection-Lab/issues/4)
 
-Case 2: https://github.com/shrouqobaid/Threat-Hunting-Detection-Lab/issues/3
 
-Case 3:https://github.com/shrouqobaid/Threat-Hunting-Detection-Lab/issues/5
 
-Case 4: https://github.com/shrouqobaid/Threat-Hunting-Detection-Lab/issues/4
 ### 🔗 تقرير الربط النهائي (Case 5: Correlation & Incident Report)
-هذا التقرير يمثل المرحلة النهائية لعملية ربط كافة الأدلة والمؤشرات الأمنية (IOCs) المستخرجة من الحالات السابقة: https://github.com/shrouqobaid/Threat-Hunting-Detection-Lab/issues/6
+هذا التقرير يمثل المرحلة النهائية لعملية ربط كافة الأدلة والمؤشرات الأمنية (IOCs) المستخرجة من الحالات السابقة: 
+- https://github.com/shrouqobaid/Threat-Hunting-Detection-Lab/issues/6
 
+---
 
 ### هيكلة المستودع (Repository Structure)
 
@@ -121,4 +121,5 @@ Case 4: https://github.com/shrouqobaid/Threat-Hunting-Detection-Lab/issues/4
 * **[/docs](docs/):** توثيق تفصيلي إضافي لعملية البحث عن التهديدات (Threat Hunting).
 * **[/screenshots](screenshots/):** يحتوي على الأدلة البصرية لنتائج التحقيق والتقارير الجنائية.
 
+---
 **تم إعداد هذا المختبر لتعزيز مهارات الدفاع الاستباقي عن الشبكات.**
