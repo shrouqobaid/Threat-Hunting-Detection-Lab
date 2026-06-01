@@ -109,9 +109,11 @@ index=network sourcetype=zeek_conn
 
 
 
-### 🔗 تقرير الربط النهائي (Case 5: Correlation & Incident Report)
-هذا التقرير يمثل المرحلة النهائية لعملية ربط كافة الأدلة والمؤشرات الأمنية (IOCs) المستخرجة من الحالات السابقة: 
-* **Case 5:** [عرض تقرير الربط](https://github.com/shrouqobaid/Threat-Hunting-Detection-Lab/issues/6)
+### التقرير النهائي (Final Incident Report)
+يمكنكم الاطلاع على التقرير الشامل الذي يلخص كافة عمليات الربط (Correlation) بين الحالات والمؤشرات الأمنية (IOCs) المستخرجة:
+
+* [**تحميل تقرير الحادثة (PDF)**](docs/Incident_Correlation_Report.pdf) 
+
 ---
 
 ### هيكلة المستودع (Repository Structure)
